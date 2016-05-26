@@ -1,0 +1,36 @@
+[["Editor",
+ "VIM",
+"Emacs",
+"Sublime Text 3",
+"Notepad++",
+"Visual Studio Professional 2015",
+"Eclipse"],
+
+[ "Precio",
+"Gratis, Se puede donar a la caridad",
+"Gratis",
+"70 Dlls",
+"Gratis",
+"499 Dlls",
+"Gratis",
+],
+
+["Extensibilidad",
+"Avanzada",
+"Avanzada",
+"Avanzada",
+"Limitada",
+"Limitada",
+"Limitada",
+],
+
+[
+"SO",
+"Unix, Linux, Windows NT, OS X, iOS, Android",
+"Multiplataforma",
+"Linux, OS X, MS Windows",
+"Windows",
+"Windows",
+"Multiplataforma",
+]
+
